@@ -1,0 +1,3 @@
+# Exercise of Codedex github course
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus sed neque eu aliquet. Suspendisse potenti. Ut vitae nulla nec ipsum mollis ultrices. Ut semper feugiat diam. Fusce enim justo, interdum tristique tincidunt sit amet, hendrerit at lacus. Duis tincidunt metus sit amet pellentesque dapibus. Vestibulum mollis tellus sed quam aliquet consequat. Suspendisse ut accumsan nulla, nec hendrerit ipsum. Proin non ornare turpis. Praesent mollis tortor mi, tristique rhoncus augue pellentesque nec. Vivamus interdum blandit efficitur. Nulla tempor convallis erat, sit amet luctus nisl aliquam at. Phasellus euismod ultrices purus, a sagittis urna pellentesque nec.
